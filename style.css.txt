@@ -1,0 +1,131 @@
+body {
+    background-color: #b8b8b8;
+    font-size: 13px;
+    line-height: 18px;
+    color: #333;
+}
+#content {
+    width: 800px;
+    padding: 20px 30px 20px 30px;
+    background-color: #fff;
+    margin: auto;
+}
+h1 {
+    font-size: 26px;
+    line-height: 30px;
+    color: #333;
+    font-weight: normal;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+h2 {
+    font-size: 36px;
+    line-height: 46px;
+    color: #333;
+    font-weight: normal;
+    font-style: italic;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.fixed {
+    position: fixed;
+    top: 10px;
+    right: 0;
+    width: 200px;
+    padding: 20px;
+    font-style: italic;
+    background-color: #666;
+    color: #fff;
+} 
+#puzzle {
+    position: relative;
+    background: url(img/v7/v7-watermark) no-repeat 0 0;
+    width: 659px;
+    height: 493px;
+    margin: 0 auto;
+    border: 5px #333;
+    border-style: groove;
+}
+#puzzle img {
+    position: absolute;
+}
+#puzzle #img1 {
+    top: 0px;
+    left: 0px;
+}
+#puzzle #img2 {
+    top: 0px;
+    left: 128px;
+}
+#puzzle #img3 {
+    top: 0px;
+    left: 219px;
+}
+#puzzle #img4 {
+    top: 0px;
+    left: 400px;
+}
+#puzzle #img5 {
+    top: 0px;
+    left: 486px;
+}
+#puzzle #img6 {
+    top: 80px;
+    left: 0px;
+}
+#puzzle #img7 {
+    top: 117px;
+    left: 92px;
+}
+#puzzle #img8 {
+    top: 86px;
+    left: 253px;
+}
+#puzzle #img9 {
+    top: 130px;
+    left: 358px;
+}
+#puzzle #img10 {
+    top: 89px;
+    left: 524px;
+}
+#puzzle #img11 {
+    top: 248px;
+    left: 0px;
+}
+#puzzle #img12 {
+    top: 207px;
+    left: 128px;
+}
+#puzzle #img13 {
+    top: 243px;
+    left: 218px;
+}
+#puzzle #img14 {
+    top: 206px;
+    left: 391px;
+}
+#puzzle #img15 {
+    top: 246px;
+    left: 484px;
+}
+#puzzle #img16 {
+    top: 326px;
+    left: 0px;
+}
+#puzzle #img17 {
+    top: 363px;
+    left: 92px;
+}
+#puzzle #img18 {
+    top: 336px;
+    left: 258px;
+}
+#puzzle #img19 {
+    top: 373px;
+    left: 349px;
+}
+#puzzle #img20 {
+    top: 330px;
+    left: 528px;
+}
