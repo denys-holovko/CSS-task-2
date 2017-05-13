@@ -15,6 +15,7 @@ h1{
     line-height: 30px;
     color:#333;
     font-weight: normal;
+    font-family: Arial;
     padding-top:20px;
     padding-bottom: 10px;
 }
@@ -23,6 +24,7 @@ h2{
     line-height: 46px;
     color:#333;
     font-weight: normal;
+    font-family: Arial;
     font-style: italic;
     padding-top: 40px;
     padding-bottom:20px;
@@ -34,6 +36,7 @@ h2{
     width:200px;
     padding:20px;
     font-style: italic;
+    font-family: Arial;
     background-color: #666;
     color:#fff;
 }
